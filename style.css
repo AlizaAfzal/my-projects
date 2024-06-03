@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.navbar{
+    background-image: url("navbar.png");
+    height:60px;
+    width: 1090px;
+    background-size: cover;
+    margin-left: 175px;
+    margin-top: 40px;;
+}
+.gradient1{
+    background-image: url("gradient1.png");
+    height:290px;
+    width:417px;
+    background-size: cover;
+    position: absolute;
+    top:152px;
+    left:341px;
+}
+.element1{
+    background-image: url("element_1.png");
+    height:134px;
+    width:750px;
+    background-size: cover;
+    position: absolute;
+    top:215px;
+    left:175px;
+}
+.element_2{
+    background-image: url("element_2.png");
+    height:56px;
+    width:658px;
+    background-size: cover;
+    position: absolute;
+    left:175px;
+    top: 384px;
+}
+.element3{
+    background-image: url("element_3.png");
+    background-size: cover;
+    height:60px;
+    width:374px;
+    position: absolute;
+    left: 175px;
+    top: 447px;
+}
+.element4{
+    background-image: url("element_4.png");
+    height:645px;
+    width:464px;
+    background-size: cover;
+    position: absolute;
+    top:110px;
+    
+    left:940px
+}
+
+.element6{
+    background-image: url("element_6.png");
+    height:504.32px;
+    width:330.25px;
+    background-size: cover;
+    position: absolute;
+    left:999px;
+    top:210px;
+}
+.element5{
+    background-image: url("element_5.png");
+    height:504.32px;
+    width:310.25px;
+    background-size: cover;
+    position: absolute;
+    left: 920px;
+    top: 150px;
+}
+.element7{
+    background-image: url("element_7.png");
+    height:357.74px;
+    width:569px;
+    background-size: cover;
+    position: absolute;
+    left: 141px;
+    top: 523.75px;
+
+}
+.element8{
+    background-image: url("element_8.png");
+    height: 4025.59px;
+    width:1388px;
+    background-size: cover;
+    position: absolute;
+    left:46px;
+    top:943px;
+}
+.element10{
+    background-image: url("element_10.png");
+    background-size: cover;
+    position: absolute;
+    height:821px;
+    width:1185px;
+    top:2981.71px;
+    left:80px;
+}
+.element9{
+    background-image: url("element_9.png");
+    background-size: cover;
+    position: absolute;
+    height:751px;
+    width:1090px;
+    left:175px;
+    top:3870.71px;
+    
+}
+.frame{
+    background-image: url("Frame.png");
+    background-size: cover;
+    position: absolute;
+    height:508px;
+    width:1090px;
+    left:175px;
+    top:4776.71px;
+
+}
+.element11{
+    background-image: url("element_11.png");
+    background-size: cover;
+    position: absolute;
+    height:406px;
+    width:1091px;
+    left:175px;
+    bottom:41.29px;
+    top:5439.71px;
+
+}
